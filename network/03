@@ -1,0 +1,1 @@
+ifconfig -v en1 | grep ether | cut -c8-
